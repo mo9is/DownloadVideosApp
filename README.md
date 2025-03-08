@@ -1,4 +1,4 @@
-This a sample project app in SwiftUI, Combine and uses MVVM architecture to fetch data from a sample JSON and display it in a horizontal scroll view inside the app. 
+This a sample project app in **SwiftUI, Combine** and uses **MVVM** architecture to fetch data from a sample JSON and display it in a horizontal scroll view inside the app. 
 
 It has been developed in a tab bar interface where you can download mutiple videos (in a queue) and store it in a local storage to play it for the next time (supports offline playing). 
 
